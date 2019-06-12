@@ -34,29 +34,7 @@
     float:right;
     width: 960px;
     }
-    /* .container {
-    width: 1183px;
-    padding: 0 15px;
-    position: absolute;
-    bottom: 0;
-    }
 
-    .footer {
-     background-color: #f5f5f5;
-     padding: 0 15px;
-     width: 1183px;
-    bottom: 0;
-    }    */
-
-.container {
-  width: auto;
-  max-width: 1183px;
-  padding: 0 15px;
-}
-
-.footer {
-  background-color: #f5f5f5;
-}
 
 
 input[type=text], textarea {
